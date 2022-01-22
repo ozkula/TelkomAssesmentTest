@@ -1,8 +1,6 @@
 # TelkomAssesmentTest
 MyTEnS and MyCarrier Talent Acquisition and Performance Team.
-1. File name: convertlog.php
-2. File format: Php Format
-
+##Rozaq Isnaini Nugraha
 
 ```
  Purpose of this tools is get Log Files from Linux log directory then convert into JSON or Txt format,
